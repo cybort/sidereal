@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sidereal",
+      "hasCanvas": true,
+      "bodyTextLen": 146,
+      "bodyTextHash": "55ff8cd2276d817854eab32656043441a0c6e83d321328d74e815039e2305c5d",
+      "bodyTextPrefix": "Sidereal 天穹 β 0.2165 c γ 1.024 τ 0.0000 y 18h 20m 49s +06° 52′ 巴",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sidereal",
+      "hasCanvas": true,
+      "bodyTextLen": 103,
+      "bodyTextHash": "02e833623a8f07507e7862fa2cd18e44d29138c428fe6fa2e69e434c7ea305c0",
+      "bodyTextPrefix": "Sidereal 天穹 β 0.2165 c γ 1.024 τ 0.0000 y 拖动转向 · 姿态跟手机 · 滚轮或 W S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
